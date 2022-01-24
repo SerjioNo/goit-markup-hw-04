@@ -108,6 +108,10 @@ img {
   color: var(--base-color);
 }
 
+.header-link-hover {
+  color: var(--hover-color);
+}
+
 .header-logo {
   font-family: Raleway;
   font-weight: bold;
