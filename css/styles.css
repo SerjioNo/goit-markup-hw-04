@@ -379,6 +379,7 @@ img {
 
 .team-item-content {
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .team-title-list {
@@ -416,7 +417,6 @@ img {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  margin-bottom: 30px;
 }
 
 .team-social-icon {
